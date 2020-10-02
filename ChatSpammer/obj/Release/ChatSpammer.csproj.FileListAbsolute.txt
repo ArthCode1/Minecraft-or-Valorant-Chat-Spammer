@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\bin\Release\ChatSpammer.exe.config
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\bin\Release\ChatSpammer.exe
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\bin\Release\ChatSpammer.pdb
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.Form1.resources
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.Properties.Resources.resources
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.exe
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.pdb
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\bin\Release\ChatSpammer.exe.manifest
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\bin\Release\ChatSpammer.application
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.exe.manifest
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.application
+C:\Users\Acer\Desktop\C# projects\ChatSpammer\ChatSpammer\obj\Release\ChatSpammer.TrustInfo.xml
